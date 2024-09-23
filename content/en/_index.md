@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I want to conduct research in AI within the field of telecommunications.
+        I want to develop stock bots
     design:
       columns: '1'
   - block: collection
